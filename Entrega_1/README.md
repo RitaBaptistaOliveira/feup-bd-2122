@@ -3,8 +3,8 @@
 ## Entrega 1
 
 Realizado por:
-	- [Rita Oliveira](https://github.com/RitaBaptistaOliveira)
-	- [Beatriz Fontão](https://github.com/beatrizfontao)
-	- Matilde Sequeira
+- [Rita Oliveira](https://github.com/RitaBaptistaOliveira)
+- [Beatriz Fontão](https://github.com/beatrizfontao)
+- Matilde Sequeira
 
-Nota: 16.7
+__Nota:__ 16.7
