@@ -1,2 +1,2 @@
-# feup-bd-2122
+# FEUP BD 21/22
 FEUP BD repository 21/22
